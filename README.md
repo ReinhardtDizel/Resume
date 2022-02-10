@@ -8,7 +8,7 @@
 * Записался на пару курсов(Обучение еще не окончил)
 * Получил сертификат stepik "Java. Базовый курс"
 
-<img src="https://stepik.org/certificate/21b8d23089a46d5e9e3dacef441161ec4c2b3fa1.png?resolution=low" width="200"/>
+<img src="https://github.com/ReinhardtDizel/Resume/blob/main/img/Screenshot_10.png" width="200"/>
 
 * Познакомился с библиотеками
 
