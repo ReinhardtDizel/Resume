@@ -45,7 +45,12 @@
 * Проекты в рамках самостоятельного обучения и задания с курсов
 
 <p>
+<a href="https://github.com/ReinhardtDizel/HibernateManyToMany">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReinhardtDizel&repo=HibernateManyToMany&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReinhardtDizel&repo=book-view-2.0&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
+<a href="https://github.com/ReinhardtDizel/book-view-2.0">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReinhardtDizel&repo=book-view-2.0&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/ReinhardtDizel/spring-boot-CRUD">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReinhardtDizel&repo=spring-boot-CRUD&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</a>
 </p>
