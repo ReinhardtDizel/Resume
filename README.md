@@ -2,7 +2,7 @@
 
 ## Я, Рейнгардт Михаил
 
-<img width="200" src="https://github.com/ReinhardtDizel/Resume/blob/main/img/photo.jfif"/><br>
+<img width="300" src="https://github.com/ReinhardtDizel/Resume/blob/main/img/photo.jfif"/><br>
 Мне 33. Последние полгода я усиленно изучаю стек технологий, необходимых, для устройства на работу Java Разработчиком.
 
 * Записался на пару курсов(Обучение еще не окончил)
